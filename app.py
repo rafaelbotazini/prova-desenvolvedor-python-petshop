@@ -20,7 +20,7 @@ def main(argv: 'list[str]'):
     )
 
     petshop, valor = obter_orcamento_banhos(data, qt_pequenos, qt_grandes)
-    print(f'O melhor orçamento para o dia {args[0]} é no petshop {petshop.nome} ({petshop.distancia_metros // 1000} km).'
+    print(f'O melhor orçamento para o dia {args[0]} é no petshop {petshop.nome} ({petshop.distancia_metros / 1000} km).'
           f'Valor total dos banhos: {locale.currency(valor)}.')
 
 
