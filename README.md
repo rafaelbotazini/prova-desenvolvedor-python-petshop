@@ -2,7 +2,7 @@
 
 Resolução da prova para desenvolvedor. A linguagem escolhida para a resolução é Python.
 
-Optei por utilizar uma abordagem orientada orientada a objetos, utilizando polimorfismo
+Optei por utilizar uma abordagem orientada a objetos, utilizando polimorfismo
 para resolver os diferentes métodos de obter o valor do orçamento por tipo de petshop.
 Para os algoritmos de cálculo e escolha do orçamento, adotei uma abordagem mais procedural,
 aproveitando a flexibilidade da linguagem para manter a simplicidade e legibilidade do código.
